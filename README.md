@@ -9,15 +9,15 @@ Beginner-Intermediate-Advance coding course
   
 * Sword and Shovels - Unity learning
 * Side scroller RPG
- - Movement system
- - Character/Enemy Controller
- - Character/Enemy Stats system
- - Game/UI/Sound Manager - Managers system
- - Item system
- - Inventory system
- - Combat system - Diferent weapon/skills for Char/Enemy
- - Spawner system
- - Save session
+  - Movement system
+  - Character/Enemy Controller
+  - Character/Enemy Stats system
+  -  Game/UI/Sound Manager - Managers system
+  - Item system
+  - Inventory system
+  -  Combat system - Diferent weapon/skills for Char/Enemy
+  -  Spawner system
+  - Save session
 
 ## Gameplay
 https://play.unity.com/mg/other/webgl-builds-36158
