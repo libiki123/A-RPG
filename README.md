@@ -8,7 +8,7 @@ Beginner-Intermediate-Advance coding course
 ## Features
   
 * Sword and Shovels - Unity learning
-* Side scroller RPG
+* ARPG
   - Movement system
   - Character/Enemy Controller
   - Character/Enemy Stats system
