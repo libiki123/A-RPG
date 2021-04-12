@@ -23,7 +23,7 @@ Beginner-Intermediate-Advance coding course
 https://play.unity.com/mg/other/webgl-builds-36158
 
 ## ScreenShots
-<img src="Images/p1.png" height='275x' width='500x'/>&nbsp;&nbsp;&nbsp;<img src="Images/p2.png" height='275x' width='500x'/>&nbsp;&nbsp;&nbsp;<img src="Images/p3.png" height='275x' width='500x'/>&nbsp;&nbsp;&nbsp;<img src="Images/p4.png" height='275x' width='500x'/>
+<img src="Images/p1.png" height='240x' width='430x'/>&nbsp;&nbsp;&nbsp;<img src="Images/p2.png" height='240x' width='430x'/>&nbsp;&nbsp;&nbsp;<img src="Images/p3.png" height='240x' width='430x'/>&nbsp;&nbsp;&nbsp;<img src="Images/p4.png" height='240x' width='430x'/>
 
 ## Sources
 
